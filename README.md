@@ -1,10 +1,8 @@
-<img src="images/icon.png" width=100 align="left">
+<img src="https://github.com/jmg-duarte/copycat/blob/main/images/icon.png" width=100 align="left">
 
 # `copycat`
 
 Easily clone VSCode extensions!
-
-<br>
 
 ## Usage
 
@@ -15,6 +13,6 @@ The extension will guide you through the process!
 ### License
 
 <sup>
-Licensed under either of <a href="LICENSE-APACHE">Apache License, Version
-2.0</a> or <a href="LICENSE-MIT">MIT license</a> at your option.
+Licensed under either of <a href="https://github.com/jmg-duarte/copycat/blob/main/LICENSE-APACHE">Apache License, Version
+2.0</a> or <a href="https://github.com/jmg-duarte/copycat/blob/main/LICENSE-MIT">MIT license</a> at your option.
 </sup>
