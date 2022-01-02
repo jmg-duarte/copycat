@@ -1,25 +1,39 @@
 {
-  "name": "copycat",
+	"name": "copycat",
 	"displayName": "CopyCat",
-	"description": "",
+	"description": "Easily clone extensions from inside VSCode!",
 	"version": "0.0.1",
-	"engines": {
-		"vscode": "^1.63.0"
+	"icon": "images/icon.png",
+	"license": "MIT OR Apache-2.0",
+	"publisher": "jmg-duarte",
+	"author": {
+		"name": "José Duarte"
 	},
 	"categories": [
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:copycat.copyExtension"
+		"onCommand:copycat.copyExtension"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
 				"command": "copycat.copyExtension",
-				"title": "CopyCat: Copy Extension"
+				"title": "🐈 CopyCat: Copy Extension"
 			}
 		]
+	},
+	"repository": {
+		"url": "https://github.com/jmg-duarte/copycat",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/jmg-duarte/copycat/issues"
+	},
+	"homepage": "https://github.com/jmg-duarte/copycat",
+	"engines": {
+		"vscode": "^1.63.0"
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run package",
