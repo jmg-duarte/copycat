@@ -1,4 +1,4 @@
-<img src="https://github.com/jmg-duarte/copycat/blob/main/images/icon.png" width=100 align="left">
+<img src="images/icon.png" width=100 align="left">
 
 # `copycat`
 
@@ -12,7 +12,4 @@ The extension will guide you through the process!
 
 ### License
 
-<sup>
-Licensed under either of <a href="https://github.com/jmg-duarte/copycat/blob/main/LICENSE-APACHE">Apache License, Version
-2.0</a> or <a href="https://github.com/jmg-duarte/copycat/blob/main/LICENSE-MIT">MIT license</a> at your option.
-</sup>
+Licensed under [MIT license](LICENSE-MIT).

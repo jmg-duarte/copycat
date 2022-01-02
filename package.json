@@ -4,7 +4,7 @@
 	"description": "Easily clone extensions from inside VSCode!",
 	"version": "0.0.1",
 	"icon": "images/icon.png",
-	"license": "MIT OR Apache-2.0",
+	"license": "LICENSE",
 	"publisher": "jmg-duarte",
 	"author": {
 		"name": "José Duarte"
